@@ -53,4 +53,4 @@ When using this dataset, please cite:
 *(citation information will be added upon publication)*
 
 ## License
-[Specify your license here]
+[MIT License](https://github.com/kcvarga7/sba_lfm_1987-2019/blob/main/LICENSE)
