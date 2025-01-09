@@ -41,6 +41,7 @@ The random forest models for dataset creation use the following predictor variab
 - 150-day mean relative humidity
 - 90-day climatic water deficit
 - 30-day accumulated precipitation
+
 Eight of the predictor variables were calculated from a previously constructed WRF climatology available [here](https://clivac.eri.ucsb.edu/clivac/SBCWRFD/index.html)
 NIRv was downloaded using a Google Earth Engine script available [here](https://code.earthengine.google.com/b01c871bf7cb81aaf11e7423dd06781a)
 
