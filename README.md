@@ -42,8 +42,8 @@ The random forest models for dataset creation use the following predictor variab
 - 90-day climatic water deficit
 - 30-day accumulated precipitation
 
-Eight of the predictor variables were calculated from a previously constructed WRF climatology available [here](https://clivac.eri.ucsb.edu/clivac/SBCWRFD/index.html)
-NIRv was downloaded using a Google Earth Engine script available [here](https://code.earthengine.google.com/b01c871bf7cb81aaf11e7423dd06781a)
+Eight of the predictor variables were calculated from a previously constructed WRF climatology available [here](https://clivac.eri.ucsb.edu/clivac/SBCWRFD/index.html).  
+NIRv was downloaded using a Google Earth Engine script available [here](https://code.earthengine.google.com/b01c871bf7cb81aaf11e7423dd06781a).  
 
 ## Contact
 For questions about the dataset or processing methodology, please [create an issue](../../issues) in this repository.
